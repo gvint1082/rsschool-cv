@@ -1,2 +1,3 @@
 # rsschool-cv
-> start task
+> Start task
+> Dashboard task
