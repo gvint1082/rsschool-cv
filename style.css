@@ -183,16 +183,16 @@ thead p {
 	border: 1px solid black;
 }
 .link-work div:first-child a:after {
-	background: transparent url(../img/portfolio.png) no-repeat center;
+	background: transparent url(/img/portfolio.png) no-repeat center;
 }
 .link-work div:nth-child(2) a:after {
-	background: transparent url(../img/med.png) no-repeat center;
+	background: transparent url(/img/med.png) no-repeat center;
 }
 .link-work div:nth-child(3) a:after {
-	background: transparent url(../img/watch.png) no-repeat center;
+	background: transparent url(/img/watch.png) no-repeat center;
 }
 .link-work div:last-child a:after {
-	background: transparent url(../img/figures.png) no-repeat center;
+	background: transparent url(/img/figures.png) no-repeat center;
 }
 .cgo {
 	text-align: center;
