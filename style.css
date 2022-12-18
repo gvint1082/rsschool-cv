@@ -147,14 +147,52 @@ thead p {
 	padding-top: 25px;
 	padding-bottom: 25px;
 }
-.about iframe {
-	display: block;
-	max-width: 800px;
-	width: 100%;
-	height: 400px;
-	vertical-align: bottom;
+.link-work {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	text-align: center;
 	margin: 0 auto;
-	overflow-y: scroll;
+}
+.link-work > div {
+	height: 210px;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.link-work > div a {
+	position: relative;
+	color: black;
+	text-decoration: none;
+}
+.link-work > div a:hover {
+	color: blue;
+}
+.link-work a:after {
+	position: absolute;
+	display: block;
+	content: '';
+	left: 50%;
+	top: 20px;
+	transform: translate(-50%, 0);
+	width: 350px;
+	height: 160px;
+	border: 1px solid black;
+}
+.link-work div:first-child a:after {
+	background: transparent url(../img/portfolio.png) no-repeat center;
+}
+.link-work div:nth-child(2) a:after {
+	background: transparent url(../img/med.png) no-repeat center;
+}
+.link-work div:nth-child(3) a:after {
+	background: transparent url(../img/watch.png) no-repeat center;
+}
+.link-work div:last-child a:after {
+	background: transparent url(../img/figures.png) no-repeat center;
 }
 .cgo {
 	text-align: center;
