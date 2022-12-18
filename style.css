@@ -98,28 +98,28 @@ thead p {
 	
 }
 .contact-item > li:first-child:before {
-	background: transparent url(../img/icon-2/discord.png) no-repeat center;
+	background: transparent url(img/icon-2/discord.png) no-repeat center;
 }
 .contact-item > li:nth-child(2):before {
-	background: transparent url(/img/icon-2/telegram.png) no-repeat center;
+	background: transparent url(img/icon-2/telegram.png) no-repeat center;
 }
 .contact-item > li:nth-child(3):before {
-	background: transparent url(/img/icon-2/skype.png) no-repeat center;
+	background: transparent url(img/icon-2/skype.png) no-repeat center;
 }
 .contact-item > li:nth-child(4):before {
-	background: transparent url(/img/icon-2/linkedin.png) no-repeat center;
+	background: transparent url(img/icon-2/linkedin.png) no-repeat center;
 }
 .contact-item > li:nth-child(5):before {
-	background: transparent url(/img/icon-2/github.png) no-repeat center;
+	background: transparent url(img/icon-2/github.png) no-repeat center;
 }
 .contact-item > li:nth-child(6):before {
-	background: transparent url(/img/icon-2/gmail.png) no-repeat center;
+	background: transparent url(img/icon-2/gmail.png) no-repeat center;
 }
 .contact-item > li:nth-child(7):before {
-	background: transparent url(/img/icon-2/phone.png) no-repeat center;
+	background: transparent url(img/icon-2/phone.png) no-repeat center;
 }
 .contact-item > li:last-child:before {
-	background: transparent url(/img/icon-2/ua.png) no-repeat center;
+	background: transparent url(img/icon-2/ua.png) no-repeat center;
 }
 /*skills*/
 .skills li {
@@ -183,16 +183,16 @@ thead p {
 	border: 1px solid black;
 }
 .link-work div:first-child a:after {
-	background: transparent url(/img/portfolio.png) no-repeat center;
+	background: transparent url(img/portfolio.png) no-repeat center;
 }
 .link-work div:nth-child(2) a:after {
-	background: transparent url(/img/med.png) no-repeat center;
+	background: transparent url(img/med.png) no-repeat center;
 }
 .link-work div:nth-child(3) a:after {
-	background: transparent url(/img/watch.png) no-repeat center;
+	background: transparent url(img/watch.png) no-repeat center;
 }
 .link-work div:last-child a:after {
-	background: transparent url(/img/figures.png) no-repeat center;
+	background: transparent url(img/figures.png) no-repeat center;
 }
 .cgo {
 	text-align: center;
@@ -216,13 +216,12 @@ thead p {
 	height: 24px;
 	top: 3px;
 	left: 37px;
-	/*background: transparent url(img/icon/codecademt.png) no-repeat center;*/
 }
 .ext-1:before {
-	background: transparent url(/img/icon/codecademt.png) no-repeat center;
+	background: transparent url(img/icon/codecademt.png) no-repeat center;
 }
 .ext-2:before {
-	background: transparent url(/img/icon/htmlacademy.png) no-repeat center;
+	background: transparent url(img/icon/htmlacademy.png) no-repeat center;
 }
 
 /*extra*/
@@ -245,13 +244,13 @@ thead p {
 	height: 24px;
 }
 .lang > li:first-child:after {
-	background: transparent url(/img/countries/ukraine.png) no-repeat center;
+	background: transparent url(img/countries/ukraine.png) no-repeat center;
 }
 .lang > li:nth-child(2):after {
-	background: transparent url(/img/countries/russia.png) no-repeat center;
+	background: transparent url(img/countries/russia.png) no-repeat center;
 }
 .lang > li:nth-child(3):after {
-	background: transparent url(/img/countries/united-kingdom.png) no-repeat center;
+	background: transparent url(img/countries/united-kingdom.png) no-repeat center;
 }
 /*Lang*/
 .td-foot {
